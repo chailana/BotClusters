@@ -5,7 +5,7 @@
         "env": {
             "BOT_TOKEN": "7176424785:AAEusrLtmtGgRisJ6Pje6yAnN-ZbdZMoO1Q"
         },
-        "run": "python3 bot.py"
+        "run": "bot.py"
     },
     "bot2": {
         "source": "https://github.com/chailana/public-forward-bot",
@@ -13,6 +13,6 @@
         "env": {
             "BOT_TOKEN": "7490926656:AAHG-oUUzGPony9xfyApSI0EbbymhneDU1k"
         },
-        "run": "python3 bot.py"
+        "run": "bot.py"
     }
 }
