@@ -1,66 +1,18 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/chailana/UPLOADER-BOT-V4.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7176424785:AAEusrLtmtGgRisJ6Pje6yAnN-ZbdZMoO1Q"
         },
-        "run": "run.sh"
+        "run": "python3 bot.py"
     },
     "bot2": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/chailana/public-forward-bot",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7490926656:AAHG-oUUzGPony9xfyApSI0EbbymhneDU1k"
         },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "python3 bot.py"
     }
 }
